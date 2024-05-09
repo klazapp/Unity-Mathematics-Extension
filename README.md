@@ -27,12 +27,6 @@ Download the package and import it into your Unity project. Ensure that the Unit
 
 ## Usage
 
-Certainly! Here's an enhanced "Usage" section for your README, including sample code snippets that demonstrate how to utilize the functions in the `mathExtension` class from your mathematics package.
-
----
-
-## Usage
-
 Include the package in your script by adding `using com.Klazapp.Utility;`. Below are examples of how to use the extended math functions provided by the `mathExtension` class.
 
 ### Angle Between Vectors
