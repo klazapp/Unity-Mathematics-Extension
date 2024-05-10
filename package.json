@@ -3,7 +3,7 @@
   "displayName": "Unity Mathematics Extension",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "This custom Hierarchy tool changes the way developers interact with game objects within the hierarchy window.",
+  "description": "Enhances Unity's mathematical capabilities with extended operations such as advanced vector calculations, precise color interpolation, and custom clamping functions, aimed at simplifying complex mathematical tasks in Unity development.",
   "keywords": [
     "config",
     "file",
