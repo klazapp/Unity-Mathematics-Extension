@@ -16,10 +16,9 @@ The Klazapp Mathematics Package enhances mathematical operations in Unity with a
 - Unity.Mathematics package
 
 ## Compatibility
-
 | Compatibility | URP | BRP | HDRP |
 |---------------|-----|-----|------|
-| Supported     | Yes | Yes | Yes  |
+| Compatible    | ✔️   | ✔️   | ✔️    |
 
 ## Installation
 
